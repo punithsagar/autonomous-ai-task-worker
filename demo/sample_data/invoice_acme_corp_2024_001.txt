@@ -1,0 +1,36 @@
+INVOICE
+
+From: Acme Corporation
+      1234 Business Ave
+      New York, NY 10001
+
+To: Your Company
+    5678 Main Street
+    Boston, MA 02101
+
+Invoice Number: ACME-2024-001
+Invoice Date: October 1, 2024
+Due Date: November 1, 2024
+
+ITEMS:
+------
+Software License (Annual)          $15,000.00
+Technical Support                   $3,500.00
+Implementation Services             $8,500.00
+
+SUBTOTAL:                          $27,000.00
+TAX (8%):                           $2,160.00
+
+TOTAL AMOUNT DUE:                  $29,160.00
+
+Payment Terms: Net 30 days
+Payment Method: Wire transfer or check
+
+Please remit payment to:
+Account Name: Acme Corporation
+Account Number: 1234567890
+Routing Number: 987654321
+
+Thank you for your business!
+
+For questions, contact: billing@acmecorp.com

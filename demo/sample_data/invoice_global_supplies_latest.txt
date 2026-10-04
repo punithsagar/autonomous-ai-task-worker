@@ -1,0 +1,44 @@
+╔═══════════════════════════════════════════╗
+║      GLOBAL SUPPLIES CO.                  ║
+║      Premium Office Equipment             ║
+╚═══════════════════════════════════════════╝
+
+Invoice: GS-2024-Q4-0142
+Issue Date: October 3, 2024
+Payment Due: November 2, 2024
+
+Customer: Your Company
+         5678 Main Street
+         Boston, MA 02101
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Item Description              Qty    Price      Total
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Office Chairs (Executive)     10    $450.00    $4,500.00
+Standing Desks                 5    $800.00    $4,000.00
+Monitor Arms                  15    $120.00    $1,800.00
+Desk Lamps (LED)             20     $45.00      $900.00
+Cable Management Kits        25     $25.00      $625.00
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                        Subtotal:   $11,825.00
+                        Shipping:      $375.00
+                        Tax (8%):      $976.00
+                        ─────────────────────
+                        TOTAL DUE:  $13,176.00
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Payment Options:
+  • Credit Card: globalsupplies.com/pay/GS-2024-Q4-0142
+  • Check: Mail to Global Supplies Co., PO Box 9999, Chicago IL 60601
+  • Wire Transfer: Contact accounts@globalsupplies.com
+
+Terms: Net 30 days from invoice date
+Late Fee: 1.5% per month on overdue balance
+
+Questions? Call: 1-800-555-SUPPLY
+Email: billing@globalsupplies.com
+
+Thank you for your business! 🏢
